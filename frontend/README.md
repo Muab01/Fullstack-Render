@@ -9,6 +9,7 @@ Currently, two official plugins are available:
 
 
  Denna webbapplikation visar citat från kända författare och tänkare.
+ https://fullstack-render-mx44.onrender.com/
 
 Content Delivery Network
 Content Delivery Network är ett nätverk av servrar som finns utspridda på olika platser runt om i världen. Det lagrar kopior av webbplatsens innehåll på dessa servrar, så att användare kan hämta information från den server som är närmast dem. På så sätt går det snabbare att ladda sidan, och användaren får en bättre upplevelse. Ett CDN ger snabbare laddningstider och minskar belastningen på huvudservern. Cloudflare är ett exempel på en CDN-tjänst.
